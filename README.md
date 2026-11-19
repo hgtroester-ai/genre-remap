@@ -100,8 +100,8 @@ Apply the transformation and continue working with the MIDI material in Ableton 
 
 **Latest release: Genre Remap 2.0.3**
 
-- [Download installable Ableton Extension (.ablx)](https://github.com/hgtroester-ai/genre-remap/releases/download/v2.0.3/Genre_Remap_2.0.3.ablx)
-- [Download complete source code (.zip)](https://github.com/hgtroester-ai/genre-remap/releases/download/v2.0.3/Genre_Remap_2.0.3_Source.zip)
+- [Download installable Ableton Extension (.ablx)](https://github.com/hgtroester-ai/genre-remap/releases/download/v2.0.3/Genre_Remap_2_0_3.ablx)
+- [Download complete source code (.zip)](https://github.com/hgtroester-ai/genre-remap/releases/download/v2.0.3/Genre_Remap_2_0_3_Source.zip)
 
 For source information, see [Sources & Licenses](https://github.com/hgtroester-ai/hgt-ableton-extensions/tree/main/Documentation).
 Visit the Releases section for the latest version.
