@@ -184,13 +184,8 @@ For the central documentation covering all three HGT Ableton Extensions:
 
 **Latest release: Genre Remap 3.3.0**
 
-- [Download installable Ableton Extension (.ablx)](https://github.com/hgtroester-ai/genre-remap/releases/tag/v3.3.0)
-- [Download complete source code (.zip)](https://github.com/hgtroester-ai/genre-remap/releases/tag/v3.3.0)
-
-Open the release page to download the two release assets:
-
-- `Genre_Remap_3.3.0.ablx` — Installable Ableton Extension
-- `Genre_Remap_3.3.0_Source.zip` — Complete source code
+- [Download installable Ableton Extension (.ablx)](https://github.com/hgtroester-ai/genre-remap/releases/download/v3.3.0/Genre_Remap_3.3.0.ablx)
+- [Download complete source code (.zip)](https://github.com/hgtroester-ai/genre-remap/releases/download/v3.3.0/Genre_Remap_3.3.0_Source.zip)
 
 Check [GitHub Releases](https://github.com/hgtroester-ai/genre-remap/releases) for version numbers, updates and release notes.
 
