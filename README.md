@@ -192,7 +192,7 @@ No guarantee of error-free or uninterrupted operation is provided. Liability for
 
 ---
 
-## 6. Downloads
+## 7. Downloads
 
 **Latest release: Genre Remap 3.3.0**
 
@@ -205,7 +205,7 @@ Check [GitHub Releases](https://github.com/hgtroester-ai/genre-remap/releases) f
 
 ---
 
-## 7. About HGT
+## 8. About HGT
 
 **The only good system is a sound system.**
 
