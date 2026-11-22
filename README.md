@@ -180,6 +180,18 @@ For the central documentation covering all three HGT Ableton Extensions:
 
 ---
 
+## 6. Use and Responsibility
+
+This extension is developed by HGT on a voluntary basis and provided free of charge.
+
+It is developed and tested with care, but errors or compatibility issues cannot be completely ruled out. Use is at your own responsibility.
+
+Please save and back up your Ableton Live projects and related files regularly, especially before installing or updating this extension.
+
+No guarantee of error-free or uninterrupted operation is provided. Liability for damages or data loss is excluded to the extent permitted by applicable law. Mandatory statutory rights remain unaffected.
+
+---
+
 ## 6. Downloads
 
 **Latest release: Genre Remap 3.3.0**
