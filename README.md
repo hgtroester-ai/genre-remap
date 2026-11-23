@@ -179,13 +179,12 @@ The HGT license is separate from the CC0 dedication for the Phazite sound assets
 
 For complete details, see the documentation included in the source package and available in the repository:
 
-- [LICENSE.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/LICENSE.md) — HGT Free Music Creator License 1.0
-- [THIRD-PARTY-NOTICES.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/THIRD-PARTY-NOTICES.md) — third-party components and notices
-- [SOUND-ASSETS.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/SOUND-ASSETS.md) — sound source and asset details
-- [SOUND-ASSET-MANIFEST.json](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/SOUND-ASSET-MANIFEST.json) — sound asset verification data
-- [RELEASE-NOTES-9.6.3.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/RELEASE-NOTES-9.6.3.md) — release notes
-- [SOUND-PROVENANCE-9.6.3.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/SOUND-PROVENANCE-9.6.3.md) — sound provenance
-- [LEGAL-RELEASE-CHECKLIST-9.6.3.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/LEGAL-RELEASE-CHECKLIST-9.6.3.md) — release documentation checklist
+- [LICENSE.md](Documentation/LICENSE.md) — HGT Free Music Creator License 1.0
+- [THIRD-PARTY-NOTICES.md](Documentation/THIRD-PARTY-NOTICES.md) — third-party components and notices
+- [SOUND-ASSETS.md](Documentation/SOUND-ASSETS.md) — sound sources and asset details
+- [SOUND-ASSET-MANIFEST.json](Documentation/SOUND-ASSET-MANIFEST.json) — sound asset verification data
+- [RELEASE-NOTES-3.3.0.md](Documentation/RELEASE-NOTES-3.3.0.md) — release notes
+- [RELEASE-CHECKLIST-3.3.0.md](Documentation/RELEASE-CHECKLIST-3.3.0.md) — release documentation checklist
 
 For the central documentation covering all three HGT Ableton Extensions:
 
