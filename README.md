@@ -139,12 +139,12 @@ This closes the extension without creating or transferring any MIDI data to Able
 
 ## 4. Compatibility & Technology
 
-- Built with the Ableton Live JavaScript Extensions SDK.
-- Available as an installable Ableton Extension (`.ablx`).
-- The installable extension contains its embedded runtime bundle.
-- Rebuilding from source requires the corresponding Ableton Extensions SDK runtime obtained separately from Ableton.
+- Developed for Ableton Live using the Ableton Extensions SDK.
+- Distributed as an installable Ableton Extension (`.ablx`).
+- The required runtime is included in the extension.
+- Rebuilding from source requires the Ableton Extensions SDK and CLI, available separately from Ableton.
 
-No separate JavaScript development environment or SDK installation is required to use the pre-built `.ablx` package.
+No additional SDK installation is required to use the pre-built `.ablx` package.
 
 ---
 
@@ -152,33 +152,40 @@ No separate JavaScript development environment or SDK installation is required t
 
 ### Audio Preview — Phazite Sounds
 
-The current Genre Remap 3.3.0 preview uses **37 embedded MP3 sound assets derived from Phazite Sounds**, documented under the **CC0 1.0 Universal** dedication.
+The Genre Converter preview uses 37 embedded MP3 sound assets derived from **Phazite Sounds**, declared under the **CC0 1.0 Universal** dedication.
 
 - **Sound source:** [Phazite Sounds](https://github.com/august-byrne/phazite-sounds)
 - **License:** [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
-The preview set contains four velocity layers each for Kick, Snare, Rim / Side Stick, Floor Tom, Low Tom, High Tom, Closed Hi-Hat, Open Hi-Hat and Ride, plus one dedicated long-decay Crash one-shot.
+The sound set includes four velocity layers each for Kick, Snare, Rim / Side Stick, Low Tom, Mid Tom, High Tom, Closed Hi-Hat, Open Hi-Hat and Ride, plus one dedicated Crash sound.
 
-MIDI velocity selects one of four recorded layers: 1–31, 32–63, 64–95 and 96–127. The MP3 preview payloads are embedded in the extension. The original WAV/FLAC recordings are not included as loose files in the release source archive.
+The sounds are embedded in the extension. The original WAV/FLAC recordings are not distributed separately in the source archive.
 
-HGT names Phazite Sounds as the source for transparency. The supplied source archive and embedded payload details are recorded in the documentation files linked below.
+### Artwork
+
+The HGT banner, logo and visual elements are original artwork created by HGT, with AI assistance based on HGT's own descriptions and creative direction. Their geometric visual language is inspired by Piet Mondrian; they are not reproductions of Mondrian artworks.
 
 ### MIDI Mapping Compatibility
 
-Third-party product names used for MIDI mapping identify note assignments only. They do not indicate that recordings, samples, presets or software from those manufacturers are included.
+The names Toontrack / EZdrummer, Native Instruments Battery / Kontakt and Korg are used only to identify MIDI note mappings. No recordings, samples, presets or software from these manufacturers are included.
 
 ### Project and Third-Party Licenses
 
-The HGT License 1.0 applies to the original Genre Remap software and documentation authored by HGT. It does not replace or change the separate CC0 1.0 dedication for Phazite sound assets or the license terms for the Ableton Extensions SDK runtime.
+The HGT Free Music Creator License 1.0 applies to original Genre Converter project material owned or controlled by HGT.
 
-For detailed information, see the individual documentation files:
+The unmodified extension can be used free of charge for personal, educational, professional and commercial music production. Music created with it may be edited, released and monetized.
 
-- [LICENSE.md](Documentation/LICENSE.md) — HGT License 1.0
-- [THIRD-PARTY-NOTICES.md](Documentation/THIRD-PARTY-NOTICES.md) — third-party components, sound assets and trademark notices
-- [SOUND-ASSETS.md](Documentation/SOUND-ASSETS.md) — Phazite Sounds provenance and audio asset details
-- [SOUND-ASSET-MANIFEST.json](Documentation/SOUND-ASSET-MANIFEST.json) — embedded audio payload hashes and byte lengths
-- [RELEASE-CHECKLIST-3.3.0.md](Documentation/RELEASE-CHECKLIST-3.3.0.md) — release verification checklist
-- [RELEASE-NOTES-3.3.0.md](Documentation/RELEASE-NOTES-3.3.0.md) — release notes
+The HGT license is separate from the CC0 dedication for the Phazite sound assets and the Ableton Extensions SDK license.
+
+For complete details, see the documentation included in the source package and available in the repository:
+
+- [LICENSE.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/LICENSE.md) — HGT Free Music Creator License 1.0
+- [THIRD-PARTY-NOTICES.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/THIRD-PARTY-NOTICES.md) — third-party components and notices
+- [SOUND-ASSETS.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/SOUND-ASSETS.md) — sound source and asset details
+- [SOUND-ASSET-MANIFEST.json](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/SOUND-ASSET-MANIFEST.json) — sound asset verification data
+- [RELEASE-NOTES-9.6.3.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/RELEASE-NOTES-9.6.3.md) — release notes
+- [SOUND-PROVENANCE-9.6.3.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/SOUND-PROVENANCE-9.6.3.md) — sound provenance
+- [LEGAL-RELEASE-CHECKLIST-9.6.3.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/LEGAL-RELEASE-CHECKLIST-9.6.3.md) — release documentation checklist
 
 For the central documentation covering all three HGT Ableton Extensions:
 
