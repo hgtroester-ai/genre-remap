@@ -1,5 +1,4 @@
 # Genre Remap
-
 ### by HGT · Developed with AI assistance
 
 **Transform your drum MIDI. Explore new genres. Shape your groove.**
@@ -8,7 +7,7 @@ Genre Remap is an Ableton Live extension for transforming existing MIDI drum pat
 
 Load a MIDI drum pattern, choose a target genre, adjust the remapping and groove settings, preview the result, and create a new MIDI clip in Ableton Live.
 
-![Genre Remap – User Interface](GenreRemap.png)
+![Genre Remap](./genreremap_small.png)
 
 ---
 
@@ -105,9 +104,9 @@ Create the transformed MIDI clip in Ableton Live and continue editing it in your
 
 **Closing the Extension Without Generating MIDI**
 
-If you want to close the extension without generating or inserting a MIDI clip, simply click the **Cancel** button.
+If you want to close the extension without generating or inserting MIDI clips, simply click the **Cancel** button.
 
-This closes the extension without creating or transferring MIDI data to Ableton Live. Existing clips and MIDI content remain unchanged.
+This closes the extension without creating or transferring any MIDI data to Ableton Live. Existing clips and MIDI content remain unchanged.
 
 ---
 
@@ -162,11 +161,7 @@ The preview set contains four velocity layers each for Kick, Snare, Rim / Side S
 
 MIDI velocity selects one of four recorded layers: 1–31, 32–63, 64–95 and 96–127. The MP3 preview payloads are embedded in the extension. The original WAV/FLAC recordings are not included as loose files in the release source archive.
 
-HGT names Phazite Sounds as the source for transparency. The supplied source archive and embedded payload details are recorded in the documentation files provided with this release.
-
-### Artwork
-
-The HGT logo, banner and visual elements are original artwork created by HGT, with AI assistance based on HGT's own descriptions and creative direction. Their geometric visual language is inspired by Piet Mondrian; they are not reproductions of Mondrian artworks.
+HGT names Phazite Sounds as the source for transparency. The supplied source archive and embedded payload details are recorded in the documentation files linked below.
 
 ### MIDI Mapping Compatibility
 
@@ -176,14 +171,14 @@ Third-party product names used for MIDI mapping identify note assignments only. 
 
 The HGT License 1.0 applies to the original Genre Remap software and documentation authored by HGT. It does not replace or change the separate CC0 1.0 dedication for Phazite sound assets or the license terms for the Ableton Extensions SDK runtime.
 
-For detailed information, open the individual documentation files in the repository. The links below lead directly to the files in the `Documentation` folder; the same documents are also included in the source package:
+For detailed information, see the individual documentation files:
 
-- [LICENSE.md](https://github.com/hgtroester-ai/genre-remap/blob/main/Documentation/LICENSE.md) — HGT License 1.0
-- [THIRD-PARTY-NOTICES.md](https://github.com/hgtroester-ai/genre-remap/blob/main/Documentation/THIRD-PARTY-NOTICES.md) — third-party components, sound assets and trademark notices
-- [SOUND-ASSETS.md](https://github.com/hgtroester-ai/genre-remap/blob/main/Documentation/SOUND-ASSETS.md) — Phazite Sounds provenance and audio asset details
-- [SOUND-ASSET-MANIFEST.json](https://github.com/hgtroester-ai/genre-remap/blob/main/Documentation/SOUND-ASSET-MANIFEST.json) — embedded audio payload hashes and byte lengths
-- [RELEASE-CHECKLIST-3.3.0.md](https://github.com/hgtroester-ai/genre-remap/blob/main/Documentation/RELEASE-CHECKLIST-3.3.0.md) — release checklist and validation boundary
-- [RELEASE-NOTES-3.3.0.md](https://github.com/hgtroester-ai/genre-remap/blob/main/Documentation/RELEASE-NOTES-3.3.0.md) — release-specific changes
+- [LICENSE.md](Documentation/LICENSE.md) — HGT License 1.0
+- [THIRD-PARTY-NOTICES.md](Documentation/THIRD-PARTY-NOTICES.md) — third-party components, sound assets and trademark notices
+- [SOUND-ASSETS.md](Documentation/SOUND-ASSETS.md) — Phazite Sounds provenance and audio asset details
+- [SOUND-ASSET-MANIFEST.json](Documentation/SOUND-ASSET-MANIFEST.json) — embedded audio payload hashes and byte lengths
+- [RELEASE-CHECKLIST-3.3.0.md](Documentation/RELEASE-CHECKLIST-3.3.0.md) — release verification checklist
+- [RELEASE-NOTES-3.3.0.md](Documentation/RELEASE-NOTES-3.3.0.md) — release notes
 
 For the central documentation covering all three HGT Ableton Extensions:
 
@@ -193,15 +188,15 @@ For the central documentation covering all three HGT Ableton Extensions:
 
 ---
 
-## 6. Use and Responsibility
+## 6. Disclaimer
 
-This extension is developed by HGT on a voluntary basis and provided free of charge.
+The HGT Ableton Extensions are developed voluntarily and provided free of charge.
 
-It is developed and tested with care, but errors or compatibility issues cannot be completely ruled out. Use is at your own responsibility.
+The software is provided "as is", without any warranty.
 
-Please save and back up your Ableton Live projects and related files regularly, especially before installing or updating this extension.
+HGT accepts no liability for damages, software errors, crashes, interruptions, project loss or data loss resulting from the use of the extensions, to the fullest extent permitted by applicable law.
 
-No guarantee of error-free or uninterrupted operation is provided. Liability for damages or data loss is excluded to the extent permitted by applicable law. Mandatory statutory rights remain unaffected.
+Users are responsible for backing up their projects and data.
 
 ---
 
