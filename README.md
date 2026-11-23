@@ -209,8 +209,8 @@ No guarantee of error-free or uninterrupted operation is provided. Liability for
 
 **Latest release: Genre Remap 3.3.0**
 
-- [Download installable Ableton Extension (.ablx)](https://github.com/hgtroester-ai/genre-remap/releases/tag/v3.3.0)
-- [Download complete source code (.zip)](https://github.com/hgtroester-ai/genre-remap/releases/tag/v3.3.0)
+- [Download installable Ableton Extension (.ablx)](https://github.com/hgtroester-ai/genre-remap/releases/download/v3.3.0/GenreRemap_3_3_0.ablx)
+- [Download complete source code (.zip)](https://github.com/hgtroester-ai/genre-remap/releases/download/v3.3.0/GenreRemap_3_3_0_Source.zip)
 
 Check [GitHub Releases](https://github.com/hgtroester-ai/genre-remap/releases) for version numbers, updates and release notes.
 
