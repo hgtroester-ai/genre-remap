@@ -1,0 +1,216 @@
+{
+  "release": "Genre Remap 3.3.0",
+  "source_project": "Phazite Sounds",
+  "declared_license": "CC0 1.0 Universal",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "uploaded_source_archive_sha256": "b4fb636a688ff3e88ca368f837c303744c31fcf722eedb15b722d01ccb52c60f",
+  "source_files_sha256": {
+    "Kick.wav": "07f1b46aa790187183ac2f60cb3900def0fb6070fb0be2db85d6dfe816b5c4bd",
+    "Snare Acoustic.wav": "18b01a15fd7a482b23846da9acb89864b9a95c0a562041fd7afdca59252154dd",
+    "Rim Side Stick.wav": "c2adbf7e705d306d383888eb4bb96b46c5bc191cc21ee6f1179f831abb211c99",
+    "Tom Floor.wav": "c195a2adf3694a950dd9f9f5b6eb5649584f393287589fe82bb22063bad10cfa",
+    "Tom Low.wav": "d73d1424895cd17d81625bbd3c02d056a420ae8d858e4d2cfcbc1c794fcf43d2",
+    "Tom High.wav": "c164c20cfa2f9255e75e44a3c37846b51d9c5982e7d51226f5d1d5d1c38b7cbb",
+    "Hat Closed.wav": "1ebeda3546a597c66ce0aec4867eb9d5b94cddec5abe5f8d82ff571997aaf8b1",
+    "Hat Open acoustic.wav": "e857bd3a52e75c72ca4617da3c5697bc4a7b3b2af7f1ca98d6a4ca98b62be6e5",
+    "Ride.wav": "d8f9044fe2e0a1f607f4182cb8a28d14b41a21d47b942f2e3f93dd03ee089f52",
+    "Crash.flac": "1c49c112206269f17f8129d3bef7e1c4f52e21f2232e8d23669ad96c6183db91"
+  },
+  "embedded_mp3_payloads": {
+    "CLOSEDHAT_L1.mp3": {
+      "sha256": "b34f32c5ee07efd1968f1f64a9b512e5e139b8339de17e99ef5bb9b6bf440621",
+      "bytes": 27210
+    },
+    "CLOSEDHAT_L2.mp3": {
+      "sha256": "bf227ce26e9b7a1ece344791d943e0c238ac9b489ed8c4d94c846ac62c034eff",
+      "bytes": 27210
+    },
+    "CLOSEDHAT_L3.mp3": {
+      "sha256": "d4f8105b9d6b21aa2cd64425cda6d37ec749724bd4b3f657399910767384e325",
+      "bytes": 27210
+    },
+    "CLOSEDHAT_L4.mp3": {
+      "sha256": "692b095c4e9049c29b6fee24104f6574796311361d11269bda0ec51c13093c77",
+      "bytes": 27210
+    },
+    "CRASH_ONE_SHOT.mp3": {
+      "sha256": "f221e254244b3dcc622a3cc5a95c702cb19799bab68f5ae810183c192c3bc48b",
+      "bytes": 163047
+    },
+    "HITOM_L1.mp3": {
+      "sha256": "edc4170bfd517b032f86d0b26648796f3093a2f9829bf3607356b713011d8023",
+      "bytes": 27210
+    },
+    "HITOM_L2.mp3": {
+      "sha256": "9cd198d7fc36f23e8be471870d4b5ec6486a14ef5236218a33cd8cd9135d28cb",
+      "bytes": 27210
+    },
+    "HITOM_L3.mp3": {
+      "sha256": "b2b46635cd2e73ee7199d5001f806a0a9737460f5ded7ff7ddf3e34630885eab",
+      "bytes": 27210
+    },
+    "HITOM_L4.mp3": {
+      "sha256": "8827c351e9c0f3726f51d7194577cf7c6bae55585452ff10432ab0cfc0079a8a",
+      "bytes": 27210
+    },
+    "KICK_L1.mp3": {
+      "sha256": "5240ea94cebb88c3280760b2c9b252cee1cd735a0b920627dc5cd020bc17ecc8",
+      "bytes": 27210
+    },
+    "KICK_L2.mp3": {
+      "sha256": "3267d7b00ba44b8770e87c982fdab1090866d63f83ae71e69e2791db36bdbf5c",
+      "bytes": 27210
+    },
+    "KICK_L3.mp3": {
+      "sha256": "9081266f203f719108a9263e5ec8754512a6e2a63511ed59854953bedf493bd2",
+      "bytes": 27210
+    },
+    "KICK_L4.mp3": {
+      "sha256": "496c44a3308b89c8131ba34cddba62f5cbe8c7af602d7298e1c50feb0c93491f",
+      "bytes": 27210
+    },
+    "LOWTOM_L1.mp3": {
+      "sha256": "f1cc6ebf7a098546effba71f23a1a969307c8a1999f3c624d9fa58e2359e65e3",
+      "bytes": 27210
+    },
+    "LOWTOM_L2.mp3": {
+      "sha256": "735629f25f541c075662dce17b7b4bc9d56515631e9f432fffc3dd4be0598944",
+      "bytes": 27210
+    },
+    "LOWTOM_L3.mp3": {
+      "sha256": "3851757e9c9e18ddd92196d2585b41a572a3dad06e0b8b6cbfd1cc80adbb7286",
+      "bytes": 27210
+    },
+    "LOWTOM_L4.mp3": {
+      "sha256": "aadc12b6d95b78937536b6431bbeeda1f5f13ea6f5c6014d6b4416e741f6d2d4",
+      "bytes": 27210
+    },
+    "MIDTOM_L1.mp3": {
+      "sha256": "8f42df009d0a31ea58b0835f3bbdcf02d5af3c77c0decc67ec7d9b18dd1e6c48",
+      "bytes": 27210
+    },
+    "MIDTOM_L2.mp3": {
+      "sha256": "f289ad9880cac46f8822b3982daf4bb2cf326367380da24877dadfc21c8862f9",
+      "bytes": 27210
+    },
+    "MIDTOM_L3.mp3": {
+      "sha256": "ffce7d5253732f2d02ed773152c1f501cbc9b01f3745bbfc0345857540f0ce93",
+      "bytes": 27210
+    },
+    "MIDTOM_L4.mp3": {
+      "sha256": "85c2c3400504eacfbbf3de5db0cfc5c977a9f4956a0e2fbe53ad20571d771b44",
+      "bytes": 27210
+    },
+    "OPENHAT_L1.mp3": {
+      "sha256": "76c2f1ab0ae384362cc5f931012aba3adeb5b65a6da2024bb4e5312dc38e6757",
+      "bytes": 27210
+    },
+    "OPENHAT_L2.mp3": {
+      "sha256": "0adc5c99d035cf8d434420daaff270c4ce20825523328880219901d75e9454bb",
+      "bytes": 27210
+    },
+    "OPENHAT_L3.mp3": {
+      "sha256": "358fc9549fd51e0480e1cb47dbbeae5faa349d5869cdde586640d7d3aaa1d44b",
+      "bytes": 27210
+    },
+    "OPENHAT_L4.mp3": {
+      "sha256": "0c6a62e2f33c75b07bc8bc68e3f1bc4017d8788d25bc5ed48207a948b41c140f",
+      "bytes": 27210
+    },
+    "RIDE_L1.mp3": {
+      "sha256": "401dd7e7688da2835967f3471318c2f8670f6ebc1a5d9a99cbf200c6627d92c7",
+      "bytes": 27210
+    },
+    "RIDE_L2.mp3": {
+      "sha256": "090e89313a64e94bff69afd66321a1c9e81a530a91a08588dff6ab434c2958fb",
+      "bytes": 27210
+    },
+    "RIDE_L3.mp3": {
+      "sha256": "d9892ed7821af9f18e998fc39126728d92180c0b4462a45230f0b01c25bdfb88",
+      "bytes": 27210
+    },
+    "RIDE_L4.mp3": {
+      "sha256": "f616816e86006d0b186b585a55d2c855a26ade0681628ccc1c93fe870ad6703e",
+      "bytes": 27210
+    },
+    "RIM_L1.mp3": {
+      "sha256": "8743715de407f8301530440f74d06318c86e56ca0166cd3019db35637a50d52c",
+      "bytes": 27210
+    },
+    "RIM_L2.mp3": {
+      "sha256": "e9f1e5150d4379319ca3cae39e6d7a40d8b670c21e8c86b9b2ec44895e64f573",
+      "bytes": 27210
+    },
+    "RIM_L3.mp3": {
+      "sha256": "190d0eeeefb8a399949dbc43031cef700c57ff7b05e2e2ebc6de21f6e37ab675",
+      "bytes": 27210
+    },
+    "RIM_L4.mp3": {
+      "sha256": "149b017e3105cd2082ac16fc7bb3b2711271eedbd4fbb53d88f0d48a37ea3984",
+      "bytes": 27210
+    },
+    "SNARE_L1.mp3": {
+      "sha256": "df888633d1c223f012b136ba4846734d7312563d9c4bb01203826bfb70a5d3ef",
+      "bytes": 27210
+    },
+    "SNARE_L2.mp3": {
+      "sha256": "535ee71ca516507af6e8d209e84d232f3715b6f0b4de3a37d204339ab6f0a4de",
+      "bytes": 27210
+    },
+    "SNARE_L3.mp3": {
+      "sha256": "37bd2c2cd20929a35bce9a7651f41ba65f684664f4db040d254debaa06bd215d",
+      "bytes": 27210
+    },
+    "SNARE_L4.mp3": {
+      "sha256": "871125ce6308b1282c1bc4cca4d8c1f134eaf7be18e64089bc1e910ed70bd596",
+      "bytes": 27210
+    }
+  },
+  "layering": {
+    "tempo_bpm": 99,
+    "beat_seconds": 0.6060606060606061,
+    "layer_bands": [
+      {
+        "velocity_min": 1,
+        "velocity_max": 31
+      },
+      {
+        "velocity_min": 32,
+        "velocity_max": 63
+      },
+      {
+        "velocity_min": 64,
+        "velocity_max": 95
+      },
+      {
+        "velocity_min": 96,
+        "velocity_max": 127
+      }
+    ],
+    "layered_instruments": [
+      "KICK",
+      "SNARE",
+      "RIM",
+      "LOWTOM",
+      "MIDTOM",
+      "HITOM",
+      "CLOSEDHAT",
+      "OPENHAT",
+      "RIDE"
+    ],
+    "single_one_shot_instruments": [
+      "CRASH"
+    ],
+    "tail_fades_ms": {
+      "KICK": 25,
+      "SNARE": 70,
+      "RIM": 25,
+      "LOWTOM": 85,
+      "MIDTOM": 85,
+      "HITOM": 85,
+      "CLOSEDHAT": 30,
+      "OPENHAT": 100,
+      "RIDE": 110
+    }
+  }
+}
