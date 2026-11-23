@@ -1,5 +1,6 @@
 # Genre Remap
-### by HGT · Supported with AI
+
+### by HGT · Developed with AI assistance
 
 **Transform your drum MIDI. Explore new genres. Shape your groove.**
 
@@ -104,9 +105,9 @@ Create the transformed MIDI clip in Ableton Live and continue editing it in your
 
 **Closing the Extension Without Generating MIDI**
 
-If you want to close the extension without generating or inserting MIDI clips, simply click the **Cancel** button.
+If you want to close the extension without generating or inserting a MIDI clip, simply click the **Cancel** button.
 
-This closes the extension without creating or transferring any MIDI data to Ableton Live. Existing clips and MIDI content remain unchanged.
+This closes the extension without creating or transferring MIDI data to Ableton Live. Existing clips and MIDI content remain unchanged.
 
 ---
 
@@ -161,7 +162,11 @@ The preview set contains four velocity layers each for Kick, Snare, Rim / Side S
 
 MIDI velocity selects one of four recorded layers: 1–31, 32–63, 64–95 and 96–127. The MP3 preview payloads are embedded in the extension. The original WAV/FLAC recordings are not included as loose files in the release source archive.
 
-HGT names Phazite Sounds as the source for transparency. The supplied source archive and embedded payload details are recorded in `SOUND-ASSETS.md` and `SOUND-ASSET-MANIFEST.json`.
+HGT names Phazite Sounds as the source for transparency. The supplied source archive and embedded payload details are recorded in the documentation files provided with this release.
+
+### Artwork
+
+The HGT logo, banner and visual elements are original artwork created by HGT, with AI assistance based on HGT's own descriptions and creative direction. Their geometric visual language is inspired by Piet Mondrian; they are not reproductions of Mondrian artworks.
 
 ### MIDI Mapping Compatibility
 
@@ -171,12 +176,14 @@ Third-party product names used for MIDI mapping identify note assignments only. 
 
 The HGT License 1.0 applies to the original Genre Remap software and documentation authored by HGT. It does not replace or change the separate CC0 1.0 dedication for Phazite sound assets or the license terms for the Ableton Extensions SDK runtime.
 
-For detailed information, see the files included in the source package:
+For detailed information, open the individual documentation files in the repository. The links below lead directly to the files in the `Documentation` folder; the same documents are also included in the source package:
 
-- `LICENSE.md` — HGT License 1.0
-- `THIRD-PARTY-NOTICES.md` — third-party components, sound assets and trademark notices
-- `SOUND-ASSETS.md` — Phazite Sounds provenance and audio asset details
-- `SOUND-ASSET-MANIFEST.json` — embedded audio payload hashes and byte lengths
+- [LICENSE.md](https://github.com/hgtroester-ai/genre-remap/blob/main/Documentation/LICENSE.md) — HGT License 1.0
+- [THIRD-PARTY-NOTICES.md](https://github.com/hgtroester-ai/genre-remap/blob/main/Documentation/THIRD-PARTY-NOTICES.md) — third-party components, sound assets and trademark notices
+- [SOUND-ASSETS.md](https://github.com/hgtroester-ai/genre-remap/blob/main/Documentation/SOUND-ASSETS.md) — Phazite Sounds provenance and audio asset details
+- [SOUND-ASSET-MANIFEST.json](https://github.com/hgtroester-ai/genre-remap/blob/main/Documentation/SOUND-ASSET-MANIFEST.json) — embedded audio payload hashes and byte lengths
+- [RELEASE-CHECKLIST-3.3.0.md](https://github.com/hgtroester-ai/genre-remap/blob/main/Documentation/RELEASE-CHECKLIST-3.3.0.md) — release checklist and validation boundary
+- [RELEASE-NOTES-3.3.0.md](https://github.com/hgtroester-ai/genre-remap/blob/main/Documentation/RELEASE-NOTES-3.3.0.md) — release-specific changes
 
 For the central documentation covering all three HGT Ableton Extensions:
 
@@ -202,12 +209,10 @@ No guarantee of error-free or uninterrupted operation is provided. Liability for
 
 **Latest release: Genre Remap 3.3.0**
 
-- [Download installable Ableton Extension (.ablx)](https://github.com/hgtroester-ai/genre-remap/releases/download/v3.3.0/GenreRemap_3_3_0.ablx)
-- [Download complete source code (.zip)](https://github.com/hgtroester-ai/genre-remap/releases/download/v3.3.0/GenreRemap_3_3_0_Source.zip)
+- [Download installable Ableton Extension (.ablx)](https://github.com/hgtroester-ai/genre-remap/releases/tag/v3.3.0)
+- [Download complete source code (.zip)](https://github.com/hgtroester-ai/genre-remap/releases/tag/v3.3.0)
 
 Check [GitHub Releases](https://github.com/hgtroester-ai/genre-remap/releases) for version numbers, updates and release notes.
-
----
 
 ---
 
