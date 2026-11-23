@@ -102,6 +102,12 @@ Listen to the original and processed patterns. Compare them and adjust the setti
 
 Create the transformed MIDI clip in Ableton Live and continue editing it in your project.
 
+Closing the Extension Without Generating MIDI
+
+If you want to close the extension without generating or inserting MIDI clips, simply click the Cancel button.
+
+This closes the extension without creating or transferring any MIDI data to Ableton Live. Existing clips and MIDI content remain unchanged.
+
 ---
 
 ## 3. Installation & Requirements
