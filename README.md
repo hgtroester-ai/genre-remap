@@ -7,7 +7,7 @@ Genre Remap is an Ableton Live extension for transforming existing MIDI drum pat
 
 Load a MIDI drum pattern, choose a target genre, adjust the remapping and groove settings, preview the result, and create a new MIDI clip in Ableton Live.
 
-![Genre Remap](./genreremap_small.png)
+![Genre Remap](https://github.com/hgtroester-ai/genre-remap/blob/main/GenreRemap.png "GenreRemap.png")
 
 ---
 
